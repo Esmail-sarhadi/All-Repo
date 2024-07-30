@@ -33,6 +33,7 @@ Hi there! I'm Esmail Sarhadi, a passionate Computer Engineer specializing in har
 
 <details>
 <summary>Click to expand</summary>
+
 ### ![Repo Badge](https://img.shields.io/badge/repo-esp32--ota--web--server-brightgreen) [ESP32 OTA Web Server](https://github.com/esmail-sarhadi/esp32-ota-web-server)
 This project demonstrates how to set up an ESP32 for Over-The-Air (OTA) updates using a web server. The ESP32 connects to a specified Wi-Fi network and hosts a web interface for uploading new firmware.
 
