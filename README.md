@@ -31,8 +31,6 @@ Hi there! I'm Esmail Sarhadi, a passionate Computer Engineer specializing in har
 
 ## 📚 All Repositories
 
-<details>
-<summary>Click to expand</summary>
 
 ### ![Repo Badge](https://img.shields.io/badge/repo-esp32--ota--web--server-brightgreen) [ESP32 OTA Web Server](https://github.com/esmail-sarhadi/esp32-ota-web-server)
 This project demonstrates how to set up an ESP32 for Over-The-Air (OTA) updates using a web server. The ESP32 connects to a specified Wi-Fi network and hosts a web interface for uploading new firmware.
@@ -153,7 +151,6 @@ ESP32-based Bluetooth temperature monitoring and relay control system.
 A WiFi-based temperature and humidity monitoring system using ESP32 microcontrollers.
 
 ### ![Repo Badge](https://img.shields.io/badge/repo-Esmail--sarhadi-brightgreen) [Esmail Sarhadi](https://github.com/esmail-sarhadi/Esmail-sarhadi)
-</details>
 
 ## 📫 Let's Connect
 
